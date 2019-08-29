@@ -1,5 +1,8 @@
 = PodSet Operator
 
+Medium post here 
+https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234
+
 An example of Kubernetes Operator built with the https://github.com/operator-framework/operator-sdk[Operator SDK].
 
 This PodSet operator takes care of scaling up and down pods that run a `sleep 3600` command in a busybox image. Nothing really fancy, but the point is to:
